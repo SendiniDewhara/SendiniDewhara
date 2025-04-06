@@ -26,6 +26,7 @@
 - Mobile Development: Exploring Android Studio.
 - Database:SQL,MYSQL
 - Backend- Java,PHP
+- stacks- react , springboot 
 
 ### 🌟 Goals for 2024:
 - Build my first **portfolio website**.
