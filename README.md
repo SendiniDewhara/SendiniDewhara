@@ -24,7 +24,7 @@
 - Web Development: HTML, CSS, JavaScript.
 - Version Control: Git and GitHub basics.
 - Mobile Development: Exploring Android Studio.
-- Database:SQL,MYSQL
+- Database:SQL,MYSQL,MongoDB
 - Backend- Java,PHP
 - stacks- react , springboot 
 
