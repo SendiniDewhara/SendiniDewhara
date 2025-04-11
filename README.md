@@ -36,8 +36,8 @@
 ---
 
 ### 📫 Connect with Me:
-- [LinkedIn]
-- Email: Dewhara2002@gmail.com
+- linkedin: https://www.linkedin.com/in/sendinidewhara2002/
+- Email   : Dewhara2002@gmail.com
 
 ---
 
